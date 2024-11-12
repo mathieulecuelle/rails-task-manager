@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+.myform{
+  width: 40%;
+  margin-left: 20px;
+}
+
+.mytask{
+  margin-left: 20px;
+}
+
+.mytaskdetails{
+  width: 500px;
+  height: 80px;
+  align-content: center;
+  padding-left: 20px;
+  background-color: lightyellow;
+}
